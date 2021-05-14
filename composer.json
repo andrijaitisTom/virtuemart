@@ -1,0 +1,9 @@
+{
+    "name": "sc_plugin/virtuemart",
+    "description": "Allow bitcoin payments in your virtuemart shop",
+    "type": "joomla-plugin",
+    "require": {
+        "composer/installers": "^1.11"
+    },
+    "license": "GPL-3.0-or-later"
+}
